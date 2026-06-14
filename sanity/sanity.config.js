@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'barko',
   title: 'BARKO Admin Panel',
 
-  projectId: process.env.SANITY_STUDIO_PROJECT_ID,
+  projectId: '2968e3mt',
   dataset: 'production',
 
   plugins: [
